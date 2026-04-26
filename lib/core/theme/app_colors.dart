@@ -40,6 +40,7 @@ class AppColors {
   static const Color error = Color(0xFFEE7D77);
   static const Color onError = Color(0xFF490106);
   static const Color errorContainer = Color(0xFF7F2927);
+  static const Color onErrorContainer = Color(0xFFFF9993);
   static const Color errorDim = Color(0xFFBB5551);
 
   // —— Outlines ——
